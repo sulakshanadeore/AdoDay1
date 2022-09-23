@@ -1,0 +1,6 @@
+1) Using Products table, access the data in the console app and print it.
+Use validations appropriately.
+
+2)Create  a view on the products table to select only productid, productname and unitprice.
+Using the view access the data in the console app and print it.
+Use validations appropriately.
